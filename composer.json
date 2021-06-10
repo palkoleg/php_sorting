@@ -1,0 +1,21 @@
+{
+    "name": "My_sort",
+    "description": "Oleh Palka, SN-42",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleh Palka",
+            "email": "poleg1997@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twbs/bootstrap": "^4.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Work\\": "app/my_sort/"
+}
+}
+}
